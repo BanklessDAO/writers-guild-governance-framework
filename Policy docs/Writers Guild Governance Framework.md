@@ -19,7 +19,7 @@ Appendix
 Writers Guild IP Policy  
 Proposal Creation & Requirements   
 
-## Spirit and Philosophy  
+## I. Spirit and Philosophy  
 ### Culture  
 The Writers Guild seeks to foster a culture where creativity, experimentation,
 and play intersect to provide meaningful opportunities for our members to
@@ -36,18 +36,18 @@ to develop mechanisms for decision-making and task management. We should aim
 to maintain only the minimum viable bureaucracy (MVB) in our actions and
 decisions. MVB promotes decentralization, transparency, and autonomy.  
 
-## Purpose  
+## II. Purpose  
 This Governance Framework provides guidance for Writers Guild members
 regarding the organization and operations of the Guild, including the
 management of labor and funding of projects within the Guild.  
 
-## Guild Membership  
+## III. Guild Membership  
 There are three Writers Guild membership tiers: Pupil, Scribbler, and Scribe.
 Membership tiers will be denoted using Discord role tags. Guild membership is
 independent of DAO membership. Guest pass holders can hold any membership
 tier within Writers Guild.
 
-### Pupil  
+### A. Pupil  
 Has the Writers Guild tag but is not actively participating.  
 
 Cannot participate in governance polls or volunteer for paid activities such
@@ -55,32 +55,35 @@ as elected roles, Client Services, Newsletter Team, or EPA. To move to
 Scribbler, a Pupil can request the role tag from a DAO Level 2 Contributor
 working within the Guild.  
 
-### Scribbler  
-Has the Writers Guild tag and wishes to start contributing to Guild
-activities and conversations. 
-
-Cannot participate in elected roles, governance polls or Client Services. To
-move to Scribe, a Scribbler must:  
-Complete any three paid tasks within the same Season. Tasks may include any
-paid contributions to the Guild, a Newsletter, or for the EPA. Furthermore,
-paid contributions to Good Morning News will accrue completion credits toward
-Scribe at a ratio of two paid contributions to equal one Guild task.
+### B. Scribbler  
+1. Has the Writers Guild tag and wishes to start contributing to Guild
+activities and conversations.
+2. May participate in Guild-wide Coordinape Epochs.
+3. Cannot participate in elected roles, governance polls or Client Services.
 
 Any DAO Level 2 Contributor working within the Guild may change a Scribbler
 to Scribe once the above tasks are completed. Promotees must provide evidence
 for their contributions. (multi-sig payments, witness, or otherwise)
 
-### Scribe
-Has the Writers Guild tag and has demonstrated proficiency and reliability.
-
-Can participate in all Guild activities, including, but not limited to:
+### C. Scribe
+1. Has the Writers Guild tag and has demonstrated proficiency and reliability.
+2. Scribe status may be awarded immediately upon the completion of any three
+(3) paid tasks, where “any” is qualified by literally any task completed and
+paid out by the Guild’s, Newsletter’s, or EPA’s multisigs. Due to the nature
+of the work with Good Morning News (hereafter, GMN), this amounts to six (6)
+paid tasks, where two (2) GMN tasks equate to one (1) Guild task.
+3. Can participate in all Guild activities, including, but not limited to:
 - acting as a signatory on the Guild multi-sig wallet.
-- volunteering for elected Roles.
+- being nominated for elected Roles.
 - working for Client Services.
 - voting on all governance matters.
-- GMN activities
+4. Once awarded, Scribe status may be maintained for six (6) months from date
+of award. Upon completion of three (3) tasks within a given season, Scribe
+status is renewed for another six (6) months. Scribes may maintain their
+status indefinitely by regularly completing the minimum required tasks each
+season per Article III Section C2.
 
-## Plagiarism  
+## IV. Plagiarism  
 Plagiarism is not tolerated in the Writers Guild. Writers who have copied or
 otherwise passed work as their own have one opportunity to correct their
 error. Second offense will result in demotion from Scribe to Scribbler if
@@ -94,7 +97,7 @@ The formal chain of escalation to challenge the accusation is:
 Each level of escalation has discretion to make the final call on whether or
 not the plagiarism was intentional.
 
-## Guild Treasury Multi-Sig
+## V. Guild Treasury Multi-Sig
 The multisig is set at 7 signers, held by the 7 role holders of the Guild. 5
 of 7 signatures are needed to execute a transaction.
 
@@ -109,7 +112,7 @@ If any Scribe votes “no” for the ratification of a particular signer, an
 election will be triggered for that position. During a Season, multi-sig
 signers can voluntarily retire or be removed, triggering the election process.
 
-## IV. Elected Roles
+## VI. Elected Roles
 Role holders carry out paid responsibilities which have been identified as
 crucial for the operational success of the Guild. The descriptions and responsibilities of role holders are as follows:
 1. Role holders are paid a salary from the Guild Treasury.
@@ -172,7 +175,7 @@ Role holders are responsible for creating Apprentice Bounties for tasks they
 need assistance in performing. Scribes and Scribblers can claim bounties for
 completing tasks the Role holder needs assistance in performing.
 
-## V. Elections
+## VII. Elections
 A. There are two types of elections:
 On-Cycle Elections: Held in the last few weeks of every Season
 Off-Cycle Elections: Held mid-Season
@@ -267,14 +270,37 @@ combat or Super Smash Brothers Melee (Governance Coordinator’s choice).
 // TODO: Include Elections Playbook as additional doc in repo
 Writers Guild Election Operations Playbook (Living Doc)
 
-## VI. Projects
+## VIII. Quorum
+
+1. Quorum for Season 6 is set at 10% of Tier 3 membership. In event of a
+fraction, the calculated amount will be rounded down to the nearest whole
+number. Current Tier 3 membership is 50 members, so polls must reach a
+minimum of 5 votes to attain quorum and qualify for ratification.
+2. Quorum for all polls and elections is set in the first week of each season
+at a percentage of that season’s Tier 3 membership, as calculated on day 1 of
+the season. The Governance Coordinator will work with the Guild Treasurer,
+Guild Coordinator, and Talent Scout to determine quorum and will announce the
+season’s quorum during that week’s governance updates.
+3. At the end of each season, participation in governance polls and elections
+will be evaluated by the Governance Coordinator. In the case of improved
+participation, a proposal will be put forth to the membership to raise
+quorum, to take effect the following season, thereby increasing legitimacy
+for amendments and addendums being enacted. In the case of reduced
+participation, a proposal will be put forth to reduce quorum for the
+following season, and it will become the Governance Coordinator’s priority to
+address the reduction in governance participation. These proposals should run
+simultaneously with end-of-season elections. See Article V Section D.
+4. Upon ratification of the seasonal evaluation of quorum, Article VI Section
+A will be revised with the appropriate values.
+
+## IX. Projects
 1. Projects will manage their own governance frameworks and guidelines.
 2. New Projects asking WG for funds must follow the Writers Guild Program
 Proposal Framework and must have a Minimum Viable Product (MVP) before requesting funds.
 3. Funds come from the Guild Treasury.
 4. New proposals should follow the guidelines set out in Article VIII: "Proposal Creation & Requirements"
 
-## VII. Collaborations
+## X. Collaborations
 1. Proposals for collaboration between the Writers Guild and other web3
 entities should include the following requirements:
 - Collaboration Leads
@@ -288,7 +314,7 @@ entities should include the following requirements:
 2. Active collaborations:
 a. Good Morning News // provide link to proposal/agreement
 
-## VIII. Proposal Creation & Requirements
+## XI. Proposal Creation & Requirements
 A Guild Program Proposal should include the following information:
 1. Program Champion
 This is the single point of contact for the program.
@@ -307,11 +333,11 @@ renewal in a timely fashion
 8. Minimum Viable Product
 New projects should have an MVP as outlined in Article VI Section 2.
 
-## IX. Remuneration
+## XII. Remuneration
 Writers Guild role and bounty payments are remunerated monthly to avoid high
 gas costs.
 
-## X. Amendments
+## XIII. Amendments
 1. Amendments to the Writers Guild Governance Framework may be proposed by
 any Scribe during the weekly Governance Meetings.
 2. Amendments to be put to a poll
