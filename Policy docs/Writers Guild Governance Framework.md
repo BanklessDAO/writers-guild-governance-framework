@@ -1,23 +1,18 @@
 # Writers Guild Governance
 
-Spirit and Philosophy  
-Culture  
-Governance  
-Purpose  
-Guild Membership  
-Guild Treasury Multi-Sig  
-Elected Roles  
-Elections  
-On-Cycle Elections  
-Off-Cycle Elections  
-Election Process  
-Projects  
-Collaboration Proposals  
-Remuneration  
-Amendments  
-Appendix  
-Writers Guild IP Policy  
-Proposal Creation & Requirements   
+I. Spirit and Philosophy  
+II. Purpose  
+III. Guild Membership  
+IV. Plagiarism
+V. Guild Treasury Multi-Sig  
+VI. Elected Roles  
+VII. Elections    
+VIII. Quorum
+IX. Projects  
+X. Collaborations  
+XI. Proposal Creation & Requirements
+XII. Remuneration  
+XIII. Amendments    
 
 ## I. Spirit and Philosophy  
 ### Culture  
@@ -176,7 +171,7 @@ need assistance in performing. Scribes and Scribblers can claim bounties for
 completing tasks the Role holder needs assistance in performing.
 
 ## VII. Elections
-A. There are two types of elections:
+### A. Elections Overview:
 On-Cycle Elections: Held in the last few weeks of every Season
 Off-Cycle Elections: Held mid-Season
 In cases where the Governance Coordinator role is up for election, the Guild
@@ -344,7 +339,3 @@ any Scribe during the weekly Governance Meetings.
 3. Seasonal review of the Writers Guild Governance Framework
 a. Discussion in Governance Meetings
 b. Changing Guild Multisig numbers (4/7, 5/9, 6/9, etc)
-
-## Appendix
-### Writers Guild IP Policy // provide link to policy/include doc in repo
-### Writers Guild Program Proposal Framework // provide link/include in repo
